@@ -1,0 +1,6 @@
+# all files
+*
+
+# except
+!.gitignore
+!rules.ini
